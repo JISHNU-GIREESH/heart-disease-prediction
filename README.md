@@ -109,12 +109,6 @@ the system and what all are the diseases predicted by the system.*
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
-```
-
 Go to the project directory
 
 ```bash
